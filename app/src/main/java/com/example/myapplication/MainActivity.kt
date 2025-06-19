@@ -49,3 +49,11 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+//Reference (Harvard Style)
+//Google Developers. (n.d.). Building your first Android app. Available at: https://developer.android.com/training/basics/firstapp [Accessed 19 June 2025].
+
+//Android Developers. (n.d.). Activities and Intents. Available at: https://developer.android.com/guide/components/activities/intro-activities [Accessed 19 June 2025].
+
+//Vogella. (n.d.). Android Intents - Tutorial. Available at: https://www.vogella.com/tutorials/AndroidIntent/article.html [Accessed 19 June 2025].
+
+//Kotlin Documentation. (n.d.). Collections overview. Available at: https://kotlinlang.org/docs/collections-overview.html [Accessed 19 June 2025].
